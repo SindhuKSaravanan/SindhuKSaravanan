@@ -16,7 +16,7 @@
 ### :globe_with_meridians: Connect with Me :
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sindhu-saravanan-)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-SOWRABHA_A-orange)](https://leetcode.com/Sindhu_Saravanan/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-SINDHU-orange)](https://leetcode.com/Sindhu_Saravanan/)
 <br>
 
 ### 💻: Tech Stacks:
