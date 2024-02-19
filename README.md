@@ -51,8 +51,8 @@
 
 ### :fire: My Stats :
 ---
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=sindhusaravanan&show_icons=true&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=SindhuKSaravanan&show_icons=true&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhusaravanan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SindhuKSaravanan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
